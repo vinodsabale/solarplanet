@@ -1,9 +1,3 @@
-I have created one solar planet.
-with using html and css property.
-mainly i have use diffrent :
-    -border
-    -align item
-    -jutify content 
-    -position
-    -flext
-  only this use and im creating expensive page.
+I developed an interactive and visually engaging model of the solar system using only HTML and CSS, without any JavaScript. This project showcases my strong proficiency with CSS properties such as border, position, flexbox, justify-content, and align-items. Each planet is accurately styled and positioned around the sun using circular orbits created through CSS borders and absolute positioning.
+
+The layout is both responsive and clean, demonstrating how advanced visual effects can be achieved purely through HTML structure and CSS styling. This project highlights my ability to build creative, efficient, and visually appealing web interfaces using foundational front-end technologies.
